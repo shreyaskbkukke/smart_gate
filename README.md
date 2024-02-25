@@ -3,6 +3,7 @@
 ## Overview
 
 This Arduino project controls two gates using servo motors and IR sensors. The gates open when the openIR sensor is triggered and close when the closeIR sensor is activated. The gate state is tracked to prevent redundant operations.
+![Automatic-Railway-Gate-Control-System-1-e1505989808622](https://github.com/shreyaskbkukke/smart_gate/assets/96857515/3fa07a57-d3b3-40d9-b16b-a009bf0aadad)
 
 ## Components
 
